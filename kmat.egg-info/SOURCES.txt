@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.py
+kmat/Matdet.py
+kmat/Matmax.py
+kmat/Matmin.py
+kmat/Matranspo.py
+kmat/Matsize.py
+kmat/__init__.py
+kmat.egg-info/PKG-INFO
+kmat.egg-info/SOURCES.txt
+kmat.egg-info/dependency_links.txt
+kmat.egg-info/requires.txt
+kmat.egg-info/top_level.txt

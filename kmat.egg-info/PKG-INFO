@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: kmat
+Version: 0.0.1
+Summary: A package for matrix operations.
+Home-page: 
+Author: HOUNSAVI Jules Koffi
+Author-email: hounsavijuleskoffi@gmail.com
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+License-File: LICENSE.txt
